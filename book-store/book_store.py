@@ -1,2 +1,11 @@
 def total(basket):
-    pass
+    
+
+    
+    
+
+    
+    
+    
+    
+basket = 
